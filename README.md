@@ -9,3 +9,5 @@ EADPQR Working:-
 5) This OTP is Superimposed over the Primary QR to Distort the QR.
 6) The Distorted QR is Transmitted over the Connection which surpasses all the Decryption patterns using OpenCV libraries.
 7) The Transmitted OTP can be Retrived by end user with Decryption Algorithm.
+
+Google Colab Link: https://colab.research.google.com/drive/1BJv16vvTmpMvumq1IegvPXxMPD138GSe?usp=sharing
